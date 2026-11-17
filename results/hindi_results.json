@@ -1,0 +1,8 @@
+{
+    "Language": "HINDI",
+    "Accuracy": "0.4396",
+    "Loss": "1.0563",
+    "F1_Macro": "0.3272",
+    "F1_Weighted": "0.3244",
+    "Samples_Evaluated": 91
+}

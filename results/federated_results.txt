@@ -1,0 +1,12 @@
+============================================================
+  LinguaGuard-FL Evaluation Results
+============================================================
+Clients                  : 1
+Languages                : malayalam, hindi, tanglish, kannada
+Rounds                   : 1
+Algorithm                : FedAvg
+Adaptive_DP              : Enabled
+Secure_Aggregation       : Enabled
+Final_Distributed_Loss   : 0.7828
+Final_Distributed_Accuracy: 0.5667
+============================================================

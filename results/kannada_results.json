@@ -1,0 +1,8 @@
+{
+    "Language": "KANNADA",
+    "Accuracy": "0.4141",
+    "Loss": "1.0871",
+    "F1_Macro": "0.3231",
+    "F1_Weighted": "0.3473",
+    "Samples_Evaluated": 1833
+}
